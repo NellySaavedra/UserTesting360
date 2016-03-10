@@ -1,0 +1,32 @@
+@media (max-width: 767px) {
+	.TextL {
+		font-size: 20px;
+	}
+	.NoHay {
+		display: none;
+	}
+	.TextP1 {
+		font-size: 15px;
+		color: white !important;
+		margin-top: 60px !important;
+		padding: 0px !important;
+		margin-bottom: 50px !important;
+	}
+	.Col12 {
+		text-align: center !important;
+	}
+	.BarraAzul {
+		background-color: #0B4C5F !important;
+		height: 120px;
+		color: #F2F2F2;
+	}
+	button {
+		width: 30%;
+		height: 65px;
+		margin-top: 30px;
+		margin-bottom: 40px;
+		border-radius: 6px;
+		background-color: black !important;
+		font-size: 20px !important;
+	}
+}

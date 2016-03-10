@@ -1,0 +1,180 @@
+/*Menu*/
+.right{
+	float: right;
+}
+.bco{
+	color: white !important;
+	font-size: 20px !important;
+}
+.trans{
+	background-color: rgba(27, 69, 101, 0.6);
+	border: none !important;
+}
+.icon-bar{
+	background-color: white !important;
+}
+.pami{
+	margin-left: 2%;
+}
+.TextL {
+	font-size: 25px;
+	margin-top:10px;
+	color: #0B3861;
+}
+.Ul1 li {
+	display: inline-block;
+	margin-left: 20px;
+}
+a:hover {
+	text-decoration: none !important;
+}
+.navbar-toggle {
+	background-color: rgba(53, 31, 29, 0.4) !important;
+	width: 40px;
+}
+/*Fin.De.Menu*/
+
+/*....Seccion de Primer Background......*/
+.TextAzul {
+	color: #2A64AB;
+}
+.Back1 {
+    background-image: url(../image/large.jpg);
+    background-position: initial;
+    background-size: cover;
+    height: 700px;
+    padding-top: 60px;
+}
+/*.DivM {
+	display: inline-block;
+	width: 400px;
+	border: 1px solid red;
+}*/
+.TextP1 {
+	color: #0B3861;
+	font-size: 50px;
+	padding-left: 10%;
+	padding-right: 10%;
+	margin-top: 139px;
+	margin-bottom:164px;
+}
+.BarraAzul {
+	background-color: rgba(18, 132, 255, 0.5);
+	height: 120px;
+	color: #F2F2F2;
+}
+button {
+	width: 30%;
+	height: 65px;
+	margin-top: 30px;
+	border-radius: 6px;
+	background: transparent;
+	border: 1px solid #D8D8D8 !important;
+	font-size: 25px;
+}
+.TexBA {
+	text-align: right;
+}
+.TexBAH2 {
+	font-size: 40px;
+}
+/*Fin de header*/
+/*Arreglo de Panel 1*/
+.Panel1 {
+	margin-bottom: 90px;
+}
+.Servicios {
+	margin-top: 90px;
+	margin-bottom: 40px;
+}
+.IcoPanel1 {
+	font-size: 60px;
+	margin-top: 10px;
+	margin-bottom: 10%;
+}
+hr {
+	border: 1px solid #E6E6E6;
+}
+/*Panel de video (Panel 2)*/
+.P2 {
+	margin-top: 70px;
+}
+.DivVideo {
+	width: 97%;
+	height: 350px;
+}
+.DivSeparador {
+	width: 100%;
+}
+.Separador {
+	margin-top: -75px;
+}
+.ImgLogo {
+	width: 70%;
+	margin-top: 18px;
+	margin-left: -25px;
+}
+.TextLogo {
+	float: right;
+}
+.Flecha {
+	width: 100%;
+	margin-top: 30px;
+}
+/*Panel 3*/
+.BackPanel3 {
+	width: 100%;
+	height: 500px;
+	margin-top: -22px;
+	margin-bottom: -22px;
+	opacity: .6;
+}
+.FilaIco {
+	position: absolute;
+	text-align: center;
+	padding-top: 60px;
+	left: 600px;
+}
+.CajaIcoFila {
+	width: 70px;
+	height: 70px;
+	background-color: #0489B1;
+	border-radius: 100%;
+	padding-top: 12px;
+	margin-bottom: 50px;
+	margin-left: 7px;
+}
+.IcoFila {
+	color: white;
+	font-size: 40px;
+}
+/*Panel 4*/
+.MP4 {
+	margin-top: 80px;
+}
+.BackPanel4 {
+	width: 100%;
+	height: 400px;
+	margin-bottom: 90px;
+}
+.BarraAzul2 {
+	background-color: #81BEF7;
+	color: white;
+	height: 120px;
+}
+ /*Arreglo de Footer*/
+.BackFooter {
+	background-color: #0B243B;
+	color: white;
+	width: 100%;
+	height: 130px;
+	padding: 2%;
+}
+.HFooter {
+	width: 50%;
+	float: left;
+}
+i {
+	font-size: 50px;
+	margin-left: 10px;
+}

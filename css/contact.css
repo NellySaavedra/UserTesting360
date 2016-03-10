@@ -1,0 +1,52 @@
+.Back2 {
+	background-image: url(../image/large.jpg);
+	background-position: initial;
+	background-size: cover;
+	height: 700px;
+	padding-top: 150px;
+}
+.CajaWell {
+	width: 60%;
+	margin-left: 20%;
+}
+.well {
+	width: 100%;
+}
+.LIn {
+	display: inline-block;
+	float: left;
+}
+.liF {
+	position: relative;
+	list-style-type: none;
+	margin-top: 5px;
+}
+.Enviar {
+	width: 100px;
+	height: 30px;
+	background-color: #2A64AB;
+	font-size: 15px;
+	color: white;
+	margin-left: 100px;
+	margin-bottom: 30px;
+}
+.Cmail {
+	margin-left: 150px;
+}
+.MInput1 {
+	margin-right: 39px;
+}
+.MInput2 {
+	margin-right: 54px;
+} 
+@media (max-width: 767px) {
+	
+	.CajaWell {
+		width: 100%;
+		margin: 2px;
+
+	}
+	textarea {
+		width: 100%;
+	}
+}
